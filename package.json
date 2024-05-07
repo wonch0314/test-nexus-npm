@@ -1,0 +1,19 @@
+{
+  "name": "npm-deploy-blue-chan",
+  "version": "1.0.0",
+  "description": "npm deploy sample project",
+  "author": "",
+  "bin": {
+    "log-run": "bin/cli.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sample"
+  ],
+  "files": [
+    "cli"
+  ],
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
