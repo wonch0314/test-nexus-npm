@@ -15,5 +15,8 @@
   ],
   "dependencies": {
     "commander": "^6.1.0"
+  },
+  "publishConfig": {
+    "registry": "http://ec2-43-203-121-31.ap-northeast-2.compute.amazonaws.com:8081/repository/npm/"
   }
 }
